@@ -1,4 +1,3 @@
-[matlab_github_screenshots.zip](https://github.com/user-attachments/files/27720039/matlab_github_screenshots.zip)
 # MATLAB Image Processing & Leaf Morphometric Analysis Project
 
 ## Project Overview
